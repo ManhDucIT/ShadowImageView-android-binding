@@ -1,12 +1,12 @@
 # ShadowImageView-android-binding
 This is an Android Binding library for ShadowImageView which provides more exquisite shadow effect, used in some special scene to enhance the user experience and it can also change color according to the picture, more delicate shadow effect.
 
+## Installation 
+Install-Package ShadowImageView
+
 ![shadow1](https://user-images.githubusercontent.com/24780565/33242423-684d151c-d307-11e7-9d8f-8a4a5beacf8c.png)
 
 ![shadow2](https://user-images.githubusercontent.com/24780565/33242424-74f5ccb4-d307-11e7-9a59-b90f20c3590f.gif)
-
-## Installation 
-Install-Package ShadowImageView
 
 ## Usage:
 
